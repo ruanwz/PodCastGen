@@ -2,6 +2,8 @@
 
 PodCastGen is a Python application that generates podcast scripts and corresponding audio using AI technologies. It leverages PocketGroq for script generation and Edge-TTS for text-to-speech conversion, supporting multiple languages and voice options.
 
+![PodCastGen Demo](https://asciinema.org/a/7ff3nkO4P8GnwoCoy01gECMOk)
+
 
 
 ## Table of Contents
