@@ -1,0 +1,12 @@
+pocketgroq==0.3.3
+bark==0.1.5
+numpy==1.22.0
+scipy==1.7.3
+transformers==4.28.1
+soundfile==0.10.3.post1
+librosa==0.9.1
+edge-tts==6.1.9
+beautifulsoup4==4.12.2
+requests==2.31.0
+youtube-transcript-api==0.6.1
+ffmpeg-python==0.2.0
