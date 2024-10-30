@@ -5,6 +5,11 @@ PodCastGen is a Python application that generates podcast scripts and correspond
 ![PodCastGen Demo](https://asciinema.org/a/7ff3nkO4P8GnwoCoy01gECMOk)
 
 
+<audio controls>
+  <source src="myoutput/full_podcast.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
 
 ## Table of Contents
 1. [Installation](#installation)
